@@ -1,0 +1,499 @@
+04-09-2023 17:14:51.309 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.mybank.ms.account.MsAccount.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 72646 (/Users/alizadacumsud/IdeaProjects/my-bank/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/IdeaProjects/my-bank)
+04-09-2023 17:14:51.310 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG az.mybank.ms.account.MsAccount.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 17:14:51.310 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.mybank.ms.account.MsAccount.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 17:14:51.326 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 17:14:51.326 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 17:14:51.326 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 17:14:51.558 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 17:14:51.562 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+04-09-2023 17:14:51.755 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 17:14:51.758 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 17:14:51.759 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 17:14:51.759 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 17:14:51.788 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 17:14:51.788 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 462 ms
+04-09-2023 17:14:51.872 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 17:14:51.987 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 17:14:52.149 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 17:14:52.157 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-customer.yaml
+04-09-2023 17:14:52.216 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 17:14:52.267 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 17:14:52.283 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 17:14:52.475 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 17:14:52.484 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 17:14:52.495 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 17:14:52.502 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.mybank.ms.account.MsAccount.logStarted - Started MyBankApplication in 1.367 seconds (JVM running for 1.691)
+04-09-2023 17:17:07.339 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 17:17:07.343 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 17:17:08.710 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.mybank.ms.account.MsAccount.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 72725 (/Users/alizadacumsud/IdeaProjects/my-bank/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/IdeaProjects/my-bank)
+04-09-2023 17:17:08.710 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG az.mybank.ms.account.MsAccount.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 17:17:08.710 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.mybank.ms.account.MsAccount.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 17:17:08.728 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 17:17:08.728 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 17:17:08.729 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 17:17:08.950 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 17:17:08.954 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+04-09-2023 17:17:09.143 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 17:17:09.146 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 17:17:09.146 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 17:17:09.146 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 17:17:09.169 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 17:17:09.169 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 440 ms
+04-09-2023 17:17:09.253 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 17:17:09.344 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 17:17:09.466 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 17:17:09.474 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-customer.yaml
+04-09-2023 17:17:09.533 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 17:17:09.578 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 17:17:09.592 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 17:17:09.768 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 17:17:09.777 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 17:17:09.787 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 17:17:09.793 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.mybank.ms.account.MsAccount.logStarted - Started MyBankApplication in 1.257 seconds (JVM running for 1.606)
+04-09-2023 17:17:39.720 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 17:17:39.724 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 17:44:20.280 [Thread-5] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 17:44:20.290 [Thread-5] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 17:44:20.353 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.test.mybank.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 72753 (/Users/alizadacumsud/IdeaProjects/my-bank/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/IdeaProjects/my-bank)
+04-09-2023 17:44:20.354 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG az.test.mybank.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 17:44:20.354 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.test.mybank.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 17:44:20.420 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 17:44:20.422 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+04-09-2023 17:44:20.454 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 17:44:20.454 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 17:44:20.455 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 17:44:20.455 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 17:44:20.459 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 17:44:20.459 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 104 ms
+04-09-2023 17:44:20.472 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-2 - Starting...
+04-09-2023 17:44:20.517 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-2 - Start completed.
+04-09-2023 17:44:20.535 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 17:44:20.537 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-customer.yaml
+04-09-2023 17:44:20.539 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 17:44:20.564 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 17:44:20.570 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 17:44:20.621 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 17:44:20.626 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 17:44:20.626 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 17:44:20.628 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.test.mybank.MyBankApplication.logStarted - Started MyBankApplication in 0.293 seconds (JVM running for 1361.449)
+04-09-2023 17:44:20.629 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
+04-09-2023 17:44:25.120 [Thread-7] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-2 - Shutdown initiated...
+04-09-2023 17:44:25.125 [Thread-7] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-2 - Shutdown completed.
+04-09-2023 17:44:25.175 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.test.mybank.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 72753 (/Users/alizadacumsud/IdeaProjects/my-bank/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/IdeaProjects/my-bank)
+04-09-2023 17:44:25.175 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG az.test.mybank.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 17:44:25.175 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.test.mybank.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 17:44:25.235 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 17:44:25.237 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+04-09-2023 17:44:25.266 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 17:44:25.266 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 17:44:25.266 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 17:44:25.267 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 17:44:25.271 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 17:44:25.271 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 94 ms
+04-09-2023 17:44:25.283 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-3 - Starting...
+04-09-2023 17:44:25.303 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-3 - Start completed.
+04-09-2023 17:44:25.313 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 17:44:25.314 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-customer.yaml
+04-09-2023 17:44:25.317 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 17:44:25.338 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 17:44:25.343 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 17:44:25.393 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 17:44:25.398 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 17:44:25.398 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 17:44:25.400 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  az.test.mybank.MyBankApplication.logStarted - Started MyBankApplication in 0.24 seconds (JVM running for 1366.221)
+04-09-2023 17:44:25.400 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
+04-09-2023 17:44:46.130 [Thread-11] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-3 - Shutdown initiated...
+04-09-2023 17:44:46.134 [Thread-11] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-3 - Shutdown completed.
+04-09-2023 18:51:22.413 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76069 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 18:51:22.414 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 18:51:22.414 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 18:51:22.468 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 18:51:22.470 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 18:51:22.470 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 18:51:22.864 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 18:51:22.870 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+04-09-2023 18:51:23.116 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 18:51:23.120 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 18:51:23.120 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 18:51:23.120 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 18:51:23.146 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 18:51:23.146 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 675 ms
+04-09-2023 18:51:23.265 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 18:51:23.363 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 18:51:23.451 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 18:51:23.459 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 18:51:23.522 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 18:51:23.564 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 18:51:23.598 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Table account created
+04-09-2023 18:51:23.601 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - ChangeSet db/changes/1.0/create-table-account.yaml::1::Jumshud Asadzada ran successfully in 10ms
+04-09-2023 18:51:23.614 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Custom SQL executed
+04-09-2023 18:51:23.615 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - ChangeSet db/changes/2.0/add_account.sql::raw::includeAll ran successfully in 9ms
+04-09-2023 18:51:23.618 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 18:51:23.803 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 18:51:23.811 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 18:51:23.824 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 18:51:23.831 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 1.669 seconds (JVM running for 2.068)
+04-09-2023 18:51:35.689 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+04-09-2023 18:51:35.690 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+04-09-2023 18:51:35.691 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 1 ms
+04-09-2023 18:51:35.706 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:51:35.707 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:53:24.543 [Thread-5] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 18:53:24.549 [Thread-5] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 18:53:26.609 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76069 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 18:53:26.610 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 18:53:26.610 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 18:53:26.676 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 18:53:26.678 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+04-09-2023 18:53:26.711 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 18:53:26.712 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 18:53:26.712 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 18:53:26.718 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 18:53:26.718 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 107 ms
+04-09-2023 18:53:26.732 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-2 - Starting...
+04-09-2023 18:53:26.772 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-2 - Start completed.
+04-09-2023 18:53:26.790 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 18:53:26.792 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 18:53:26.795 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 18:53:26.826 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 18:53:26.833 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 18:53:26.893 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 18:53:26.899 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 18:53:26.901 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 0.306 seconds (JVM running for 125.139)
+04-09-2023 18:53:26.902 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
+04-09-2023 18:53:29.271 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.MyBankApplicationTests.logStarting - Starting MyBankApplicationTests using Java 11.0.18 on KAPMAC165-M.local with PID 76159 (started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 18:53:29.272 [Test worker] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.MyBankApplicationTests.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 18:53:29.272 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.MyBankApplicationTests.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 18:53:29.541 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 18:53:29.548 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+04-09-2023 18:53:29.790 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 18:53:29.908 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 18:53:30.028 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 18:53:30.040 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 18:53:30.112 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 18:53:30.159 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 18:53:30.178 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 18:53:30.562 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.MyBankApplicationTests.logStarted - Started MyBankApplicationTests in 1.478 seconds (JVM running for 2.026)
+04-09-2023 18:53:30.722 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 18:53:30.726 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 18:54:37.045 [Thread-7] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-2 - Shutdown initiated...
+04-09-2023 18:54:37.050 [Thread-7] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-2 - Shutdown completed.
+04-09-2023 18:54:37.111 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76069 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 18:54:37.111 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 18:54:37.111 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 18:54:37.174 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 18:54:37.175 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+04-09-2023 18:54:37.218 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 18:54:37.219 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 18:54:37.219 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 18:54:37.225 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 18:54:37.225 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 113 ms
+04-09-2023 18:54:37.240 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-3 - Starting...
+04-09-2023 18:54:37.282 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-3 - Start completed.
+04-09-2023 18:54:37.320 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 18:54:37.322 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 18:54:37.325 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 18:54:37.350 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 18:54:37.355 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 18:54:37.403 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 18:54:37.408 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 18:54:37.410 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 0.317 seconds (JVM running for 195.649)
+04-09-2023 18:54:37.410 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
+04-09-2023 18:54:38.004 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.MyBankApplicationTests.logStarting - Starting MyBankApplicationTests using Java 11.0.18 on KAPMAC165-M.local with PID 76210 (started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 18:54:38.005 [Test worker] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.MyBankApplicationTests.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 18:54:38.005 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.MyBankApplicationTests.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 18:54:38.282 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 18:54:38.288 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+04-09-2023 18:54:38.518 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 18:54:38.633 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 18:54:38.748 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 18:54:38.759 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 18:54:38.825 [Thread-14] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-3 - Shutdown initiated...
+04-09-2023 18:54:38.828 [Thread-14] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-3 - Shutdown completed.
+04-09-2023 18:54:38.834 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 18:54:38.866 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76069 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 18:54:38.866 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 18:54:38.866 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 18:54:38.888 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 18:54:38.910 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 18:54:38.919 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 18:54:38.920 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+04-09-2023 18:54:38.956 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 18:54:38.956 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 18:54:38.956 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 18:54:38.961 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 18:54:38.961 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 94 ms
+04-09-2023 18:54:38.974 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-4 - Starting...
+04-09-2023 18:54:38.996 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-4 - Start completed.
+04-09-2023 18:54:39.007 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 18:54:39.009 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 18:54:39.011 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 18:54:39.035 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 18:54:39.040 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 18:54:39.086 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 18:54:39.091 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 18:54:39.093 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 0.241 seconds (JVM running for 197.332)
+04-09-2023 18:54:39.094 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
+04-09-2023 18:54:39.313 [Test worker] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.MyBankApplicationTests.logStarted - Started MyBankApplicationTests in 1.496 seconds (JVM running for 2.087)
+04-09-2023 18:54:39.498 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 18:54:39.502 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 18:54:52.161 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-4 - Shutdown initiated...
+04-09-2023 18:54:52.165 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-4 - Shutdown completed.
+04-09-2023 18:54:53.670 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76238 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 18:54:53.671 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 18:54:53.671 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 18:54:53.687 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 18:54:53.688 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 18:54:53.688 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 18:54:53.995 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 18:54:54.001 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+04-09-2023 18:54:54.231 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 18:54:54.235 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 18:54:54.235 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 18:54:54.235 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 18:54:54.265 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 18:54:54.265 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 577 ms
+04-09-2023 18:54:54.346 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 18:54:54.476 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 18:54:54.606 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 18:54:54.629 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 18:54:54.729 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 18:54:54.826 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 18:54:54.857 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 18:54:55.204 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 18:54:55.215 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 18:54:55.231 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 18:54:55.239 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 1.775 seconds (JVM running for 2.155)
+04-09-2023 18:58:02.609 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 18:58:02.614 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 18:58:03.942 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76501 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 18:58:03.943 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 18:58:03.943 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 18:58:03.958 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 18:58:03.959 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 18:58:03.959 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 18:58:04.191 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 18:58:04.196 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+04-09-2023 18:58:04.372 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 18:58:04.375 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 18:58:04.375 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 18:58:04.376 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 18:58:04.397 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 18:58:04.398 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 439 ms
+04-09-2023 18:58:04.476 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 18:58:04.586 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 18:58:04.697 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 18:58:04.706 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 18:58:04.761 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 18:58:04.800 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 18:58:04.815 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 18:58:04.979 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 18:58:04.988 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 18:58:05.000 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 18:58:05.006 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 1.226 seconds (JVM running for 1.552)
+04-09-2023 18:58:09.831 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+04-09-2023 18:58:09.832 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+04-09-2023 18:58:09.834 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 2 ms
+04-09-2023 18:58:09.851 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:09.851 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:10.411 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:10.411 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:10.803 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:10.804 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:11.153 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:11.154 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:11.536 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:11.537 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:11.869 [http-nio-8080-exec-7] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:11.870 [http-nio-8080-exec-7] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:12.253 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:12.253 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:14.439 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:14.441 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:14.944 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:14.945 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:15.282 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:15.283 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:15.597 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:15.602 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:58:15.988 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:58:15.988 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:59:26.808 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 18:59:26.817 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 18:59:28.764 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76559 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 18:59:28.764 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 18:59:28.764 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 18:59:28.779 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 18:59:28.779 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 18:59:28.779 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 18:59:29.013 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 18:59:29.019 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+04-09-2023 18:59:29.217 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 18:59:29.221 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 18:59:29.221 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 18:59:29.221 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 18:59:29.250 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 18:59:29.250 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 470 ms
+04-09-2023 18:59:29.328 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 18:59:29.439 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 18:59:29.609 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 18:59:29.628 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 18:59:29.711 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 18:59:29.804 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 18:59:29.841 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 18:59:30.046 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 18:59:30.061 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 18:59:30.077 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 18:59:30.083 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 1.498 seconds (JVM running for 1.828)
+04-09-2023 18:59:32.797 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+04-09-2023 18:59:32.798 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+04-09-2023 18:59:32.799 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 1 ms
+04-09-2023 18:59:32.812 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:59:32.812 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 18:59:33.588 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 18:59:33.589 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 19:00:14.828 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 19:00:14.836 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 19:00:16.468 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76612 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 19:00:16.469 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 19:00:16.469 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 19:00:16.487 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 19:00:16.488 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 19:00:16.488 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 19:00:16.718 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 19:00:16.723 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+04-09-2023 19:00:16.898 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 19:00:16.901 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 19:00:16.901 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 19:00:16.901 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 19:00:16.922 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 19:00:16.922 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 434 ms
+04-09-2023 19:00:17.006 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 19:00:17.112 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 19:00:17.224 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 19:00:17.232 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 19:00:17.293 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 19:00:17.334 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 19:00:17.350 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 19:00:17.530 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 19:00:17.539 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 19:00:17.550 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 19:00:17.556 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 1.263 seconds (JVM running for 1.562)
+04-09-2023 19:00:21.491 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+04-09-2023 19:00:21.491 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+04-09-2023 19:00:21.492 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 0 ms
+04-09-2023 19:00:21.514 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 19:00:21.514 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 19:00:42.617 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 19:00:42.622 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 19:01:26.090 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76653 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 19:01:26.091 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 19:01:26.091 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 19:01:26.107 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 19:01:26.107 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 19:01:26.107 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 19:01:26.365 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 19:01:26.370 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+04-09-2023 19:01:26.559 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 19:01:26.563 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 19:01:26.563 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 19:01:26.563 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 19:01:26.588 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 19:01:26.588 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 481 ms
+04-09-2023 19:01:26.676 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 19:01:26.794 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 19:01:26.881 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 19:01:26.889 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 19:01:26.946 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 19:01:26.986 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 19:01:27.001 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 19:01:27.170 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 19:01:27.178 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 19:01:27.188 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 19:01:27.195 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 1.275 seconds (JVM running for 1.602)
+04-09-2023 19:01:28.705 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+04-09-2023 19:01:28.706 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+04-09-2023 19:01:28.707 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 0 ms
+04-09-2023 19:01:28.720 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 19:01:28.720 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 19:01:29.387 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 19:01:29.387 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 19:01:44.068 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 19:01:44.085 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 19:01:45.870 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76690 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 19:01:45.870 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 19:01:45.870 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 19:01:45.888 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 19:01:45.889 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 19:01:45.889 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 19:01:46.136 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 19:01:46.142 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+04-09-2023 19:01:46.320 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 19:01:46.323 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 19:01:46.323 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 19:01:46.323 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 19:01:46.346 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 19:01:46.346 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 457 ms
+04-09-2023 19:01:46.429 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 19:01:46.530 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 19:01:46.641 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 19:01:46.649 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 19:01:46.710 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 19:01:46.751 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 19:01:46.766 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 19:01:46.934 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 19:01:46.943 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 19:01:46.953 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 19:01:46.960 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 1.26 seconds (JVM running for 1.556)
+04-09-2023 19:02:13.520 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+04-09-2023 19:02:13.528 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+04-09-2023 19:02:14.842 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 76708 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+04-09-2023 19:02:14.843 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+04-09-2023 19:02:14.843 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-09-2023 19:02:14.857 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+04-09-2023 19:02:14.858 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+04-09-2023 19:02:14.858 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+04-09-2023 19:02:15.092 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+04-09-2023 19:02:15.097 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+04-09-2023 19:02:15.262 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+04-09-2023 19:02:15.265 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+04-09-2023 19:02:15.265 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+04-09-2023 19:02:15.265 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+04-09-2023 19:02:15.290 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+04-09-2023 19:02:15.290 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 432 ms
+04-09-2023 19:02:15.376 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+04-09-2023 19:02:15.482 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+04-09-2023 19:02:15.591 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+04-09-2023 19:02:15.600 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+04-09-2023 19:02:15.662 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+04-09-2023 19:02:15.703 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+04-09-2023 19:02:15.719 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+04-09-2023 19:02:15.887 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.a.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+04-09-2023 19:02:15.895 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+04-09-2023 19:02:15.906 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+04-09-2023 19:02:15.912 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 1.239 seconds (JVM running for 1.556)
+04-09-2023 19:02:22.077 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+04-09-2023 19:02:22.077 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+04-09-2023 19:02:22.078 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 0 ms
+04-09-2023 19:02:22.095 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  a.m.m.account.service.AccountService.getAccountWithId - INFO
+04-09-2023 19:02:22.095 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.m.account.service.AccountService.getAccountWithId - DEBUG
+04-09-2023 19:11:43.768 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m20s922ms).
+04-09-2023 19:12:37.838 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s70ms).
+04-09-2023 19:14:00.873 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s29ms).
+04-09-2023 19:14:53.780 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s907ms).
+04-09-2023 19:16:16.910 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s126ms).
+04-09-2023 19:25:00.448 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m13s478ms).
+04-09-2023 19:26:19.491 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s31ms).
+04-09-2023 19:27:39.162 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s658ms).
+04-09-2023 19:29:00.987 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51s815ms).
+04-09-2023 19:32:11.381 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m10s394ms).
+04-09-2023 19:32:57.367 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s986ms).
+04-09-2023 19:34:37.015 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m39s648ms).
+04-09-2023 19:36:53.240 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m16s224ms).
+04-09-2023 19:54:38.820 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m14s513ms).
+04-09-2023 20:13:50.813 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m11s994ms).
+04-09-2023 20:22:04.436 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m13s623ms).
+04-09-2023 21:12:39.330 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m34s894ms).
+04-09-2023 21:30:41.262 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m1s932ms).
+04-09-2023 22:39:16.605 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h8m35s343ms).
+04-09-2023 23:45:33.207 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m16s602ms).

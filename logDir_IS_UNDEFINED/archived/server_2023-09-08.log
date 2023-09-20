@@ -1,0 +1,745 @@
+08-09-2023 00:16:44.798 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h7m44s612ms).
+08-09-2023 01:20:43.092 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h3m58s293ms).
+08-09-2023 02:13:47.244 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m4s153ms).
+08-09-2023 03:20:25.788 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m38s544ms).
+08-09-2023 04:43:59.274 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h23m33s486ms).
+08-09-2023 05:33:31.924 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m32s650ms).
+08-09-2023 06:56:33.000 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h23m1s76ms).
+08-09-2023 08:04:39.369 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h8m6s369ms).
+08-09-2023 08:08:21.644 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m42s274ms).
+08-09-2023 08:11:32.983 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m41s319ms).
+08-09-2023 08:23:25.793 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m52s800ms).
+08-09-2023 08:34:07.781 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m41s989ms).
+08-09-2023 09:00:01.733 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m53s952ms).
+08-09-2023 09:17:22.804 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m21s71ms).
+08-09-2023 09:26:58.394 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m5s585ms).
+08-09-2023 09:30:03.594 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m5s191ms).
+08-09-2023 09:47:23.176 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m49s527ms).
+08-09-2023 10:03:19.806 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m26s547ms).
+08-09-2023 10:20:04.362 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m44s494ms).
+08-09-2023 10:25:35.814 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m1s422ms).
+08-09-2023 10:34:16.915 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m11s77ms).
+08-09-2023 10:51:18.628 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m31s605ms).
+08-09-2023 11:08:03.426 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s732ms).
+08-09-2023 11:22:03.898 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m385ms).
+08-09-2023 11:22:55.333 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51s436ms).
+08-09-2023 11:59:46.609 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m21s91ms).
+08-09-2023 12:13:51.192 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m4s485ms).
+08-09-2023 12:23:01.651 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m40s419ms).
+08-09-2023 12:59:18.037 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m46s151ms).
+08-09-2023 14:08:24.397 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6s289ms).
+08-09-2023 14:27:47.877 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m23s388ms).
+08-09-2023 15:04:37.435 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+08-09-2023 15:04:37.439 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+08-09-2023 15:04:45.936 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 55245 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+08-09-2023 15:04:45.937 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+08-09-2023 15:04:45.937 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+08-09-2023 15:04:45.953 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+08-09-2023 15:04:45.954 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-09-2023 15:04:45.954 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-09-2023 15:04:46.304 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+08-09-2023 15:04:46.310 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+08-09-2023 15:04:46.442 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.cloud.context.scope.GenericScope.setSerializationId - BeanFactory id=5f5519ae-7443-38d1-a689-78f90b7ab207
+08-09-2023 15:04:47.045 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+08-09-2023 15:04:47.049 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+08-09-2023 15:04:47.050 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+08-09-2023 15:04:47.050 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+08-09-2023 15:04:47.097 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+08-09-2023 15:04:47.098 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1143 ms
+08-09-2023 15:04:47.210 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+08-09-2023 15:04:47.310 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+08-09-2023 15:04:47.405 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+08-09-2023 15:04:47.414 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+08-09-2023 15:04:47.471 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+08-09-2023 15:04:47.520 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+08-09-2023 15:04:47.538 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+08-09-2023 15:04:47.750 [restartedMain] [springAppName_IS_UNDEFINED, ] WARN  o.s.b.d.a.OptionalLiveReloadServer.startServer - Unable to start LiveReload server
+08-09-2023 15:04:48.413 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+08-09-2023 15:04:48.423 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+08-09-2023 15:04:48.490 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 2.765 seconds (JVM running for 3.259)
+08-09-2023 15:05:08.964 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-09-2023 15:05:08.965 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+08-09-2023 15:05:08.968 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 3 ms
+08-09-2023 15:05:08.992 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/4 HTTP/1.1
+08-09-2023 15:05:08.992 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 15:05:09.145 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 200 (151ms)
+08-09-2023 15:05:09.146 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: keep-alive
+08-09-2023 15:05:09.146 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 15:05:09.146 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 11:05:09 GMT
+08-09-2023 15:05:09.146 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] keep-alive: timeout=60
+08-09-2023 15:05:09.146 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 15:05:09.146 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 15:05:09.146 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"id":4,"name":"Nigar","surname":"Aliyeva","cif":"561423","pin":"U98K1J"}
+08-09-2023 15:05:09.147 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (73-byte body)
+08-09-2023 15:05:41.217 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+08-09-2023 15:05:41.221 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+08-09-2023 15:05:43.916 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 55285 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+08-09-2023 15:05:43.917 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+08-09-2023 15:05:43.917 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+08-09-2023 15:05:43.937 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+08-09-2023 15:05:43.937 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-09-2023 15:05:43.937 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-09-2023 15:05:44.304 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+08-09-2023 15:05:44.308 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+08-09-2023 15:05:44.412 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.cloud.context.scope.GenericScope.setSerializationId - BeanFactory id=0a32a399-1bc6-36d2-9a9a-2fa1a16afa09
+08-09-2023 15:05:44.987 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+08-09-2023 15:05:44.991 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+08-09-2023 15:05:44.991 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+08-09-2023 15:05:44.991 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+08-09-2023 15:05:45.031 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+08-09-2023 15:05:45.031 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1093 ms
+08-09-2023 15:05:45.152 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+08-09-2023 15:05:45.246 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+08-09-2023 15:05:45.337 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+08-09-2023 15:05:45.344 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+08-09-2023 15:05:45.401 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+08-09-2023 15:05:45.453 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+08-09-2023 15:05:45.469 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+08-09-2023 15:05:45.633 [restartedMain] [springAppName_IS_UNDEFINED, ] WARN  o.s.b.d.a.OptionalLiveReloadServer.startServer - Unable to start LiveReload server
+08-09-2023 15:05:46.281 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+08-09-2023 15:05:46.290 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+08-09-2023 15:05:46.352 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 2.675 seconds (JVM running for 3.059)
+08-09-2023 15:05:48.189 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-09-2023 15:05:48.190 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+08-09-2023 15:05:48.192 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 2 ms
+08-09-2023 15:06:01.507 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+08-09-2023 15:06:01.510 [SpringApplicationShutdownHook] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+08-09-2023 15:06:03.559 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarting - Starting MyBankApplication using Java 11.0.18 on KAPMAC165-M.local with PID 55312 (/Users/alizadacumsud/Desktop/my-microservice/ms-account-demo/build/classes/java/main started by alizadacumsud in /Users/alizadacumsud/Desktop/my-microservice/ms-account-demo)
+08-09-2023 15:06:03.560 [restartedMain] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.MyBankApplication.logStarting - Running with Spring Boot v2.6.1, Spring v5.3.13
+08-09-2023 15:06:03.560 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+08-09-2023 15:06:03.579 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.restart.ChangeableUrls.logTo - The Class-Path manifest attribute in /Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/liquibase-core-4.5.0.jar referenced one or more files that do not exist: file:/Users/alizadacumsud/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/4.5.0/ecc5a74c46305594ae2dd00e8103c8367d89b042/snakeyaml-1.27.jar
+08-09-2023 15:06:03.580 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-09-2023 15:06:03.580 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-09-2023 15:06:03.888 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+08-09-2023 15:06:03.892 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+08-09-2023 15:06:04.009 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.cloud.context.scope.GenericScope.setSerializationId - BeanFactory id=5f5519ae-7443-38d1-a689-78f90b7ab207
+08-09-2023 15:06:04.554 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+08-09-2023 15:06:04.557 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+08-09-2023 15:06:04.558 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+08-09-2023 15:06:04.558 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.55]
+08-09-2023 15:06:04.597 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+08-09-2023 15:06:04.597 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1017 ms
+08-09-2023 15:06:04.716 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+08-09-2023 15:06:04.822 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+08-09-2023 15:06:04.908 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully acquired change log lock
+08-09-2023 15:06:04.917 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/1.0/create-table-account.yaml
+08-09-2023 15:06:04.973 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading resource: db/changes/2.0/add_account.sql
+08-09-2023 15:06:05.015 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.changelog.log - Reading from public.databasechangelog
+08-09-2023 15:06:05.032 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  liquibase.lockservice.log - Successfully released change log lock
+08-09-2023 15:06:05.199 [restartedMain] [springAppName_IS_UNDEFINED, ] WARN  o.s.b.d.a.OptionalLiveReloadServer.startServer - Unable to start LiveReload server
+08-09-2023 15:06:05.856 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+08-09-2023 15:06:05.865 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+08-09-2023 15:06:05.927 [restartedMain] [springAppName_IS_UNDEFINED, ] INFO  a.m.ms.account.MyBankApplication.logStarted - Started MyBankApplication in 2.58 seconds (JVM running for 2.934)
+08-09-2023 15:06:19.684 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-09-2023 15:06:19.685 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+08-09-2023 15:06:19.687 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 2 ms
+08-09-2023 15:06:19.705 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 15:06:19.706 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 15:06:19.735 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 200 (28ms)
+08-09-2023 15:06:19.736 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: keep-alive
+08-09-2023 15:06:19.736 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 15:06:19.736 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 11:06:19 GMT
+08-09-2023 15:06:19.736 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] keep-alive: timeout=60
+08-09-2023 15:06:19.736 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 15:06:19.736 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 15:06:19.737 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"id":5,"name":"Vusal","surname":"Mahirov","cif":"71236","pin":"PLSQL1"}
+08-09-2023 15:06:19.737 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (72-byte body)
+08-09-2023 15:42:30.089 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m24s907ms).
+08-09-2023 15:54:33.656 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 15:54:33.659 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 15:54:33.793 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 200 (133ms)
+08-09-2023 15:54:33.793 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: keep-alive
+08-09-2023 15:54:33.793 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 15:54:33.793 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 11:54:33 GMT
+08-09-2023 15:54:33.793 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] keep-alive: timeout=60
+08-09-2023 15:54:33.794 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 15:54:33.794 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 15:54:33.794 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"id":5,"name":"Vusal","surname":"Mahirov","cif":"71236","pin":"PLSQL1"}
+08-09-2023 15:54:33.794 [http-nio-8080-exec-4] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (72-byte body)
+08-09-2023 16:24:08.314 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m37s930ms).
+08-09-2023 16:39:28.191 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 16:39:28.194 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 16:39:28.348 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 400 (153ms)
+08-09-2023 16:39:28.348 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: close
+08-09-2023 16:39:28.348 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 16:39:28.348 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 12:39:28 GMT
+08-09-2023 16:39:28.348 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 16:39:28.348 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 16:39:28.349 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"timestamp":"2023-09-08T12:39:28.298+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'password' for method parameter type String is not present\n\tat org.springframework.web.method.annotation.RequestHeaderMethodArgumentResolver.handleMissingValue(RequestHeaderMethodArgumentResolver.java:87)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleMissingValue(AbstractNamedValueMethodArgumentResolver.java:226)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:114)\n\tat org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)\n\tat org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)\n\tat org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:655)\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:764)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\n","message":"Required request header 'password' for method parameter type String is not present","path":"/customer/5"}
+08-09-2023 16:39:28.349 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (5435-byte body)
+08-09-2023 16:39:28.362 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:39:28.298+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'password' for method param... (5435 bytes)]] with root cause
+feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:39:28.298+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'password' for method param... (5435 bytes)]
+	at feign.FeignException.clientErrorStatus(FeignException.java:213)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy103.getCustomerWithId(Unknown Source)
+	at az.mybank.ms.account.service.AccountService.getCustomerById(AccountService.java:22)
+	at az.mybank.ms.account.controller.AccountController.getCustomerWithId(AccountController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.cloud.sleuth.instrument.web.servlet.TracingFilter.doFilter(TracingFilter.java:68)
+	at org.springframework.cloud.sleuth.autoconfig.instrument.web.TraceWebServletConfiguration$LazyTracingFilter.doFilter(TraceWebServletConfiguration.java:129)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.springframework.cloud.sleuth.instrument.web.tomcat.TraceValve.invoke(TraceValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+08-09-2023 16:39:33.505 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 16:39:33.510 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 16:39:33.561 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 400 (50ms)
+08-09-2023 16:39:33.562 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: close
+08-09-2023 16:39:33.562 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 16:39:33.562 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 12:39:33 GMT
+08-09-2023 16:39:33.562 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 16:39:33.562 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 16:39:33.574 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"timestamp":"2023-09-08T12:39:33.551+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'password' for method parameter type String is not present\n\tat org.springframework.web.method.annotation.RequestHeaderMethodArgumentResolver.handleMissingValue(RequestHeaderMethodArgumentResolver.java:87)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleMissingValue(AbstractNamedValueMethodArgumentResolver.java:226)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:114)\n\tat org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)\n\tat org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)\n\tat org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:655)\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:764)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\n","message":"Required request header 'password' for method parameter type String is not present","path":"/customer/5"}
+08-09-2023 16:39:33.575 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (5435-byte body)
+08-09-2023 16:39:33.582 [http-nio-8080-exec-9] [springAppName_IS_UNDEFINED, ] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:39:33.551+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'password' for method param... (5435 bytes)]] with root cause
+feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:39:33.551+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'password' for method param... (5435 bytes)]
+	at feign.FeignException.clientErrorStatus(FeignException.java:213)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy103.getCustomerWithId(Unknown Source)
+	at az.mybank.ms.account.service.AccountService.getCustomerById(AccountService.java:22)
+	at az.mybank.ms.account.controller.AccountController.getCustomerWithId(AccountController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.cloud.sleuth.instrument.web.servlet.TracingFilter.doFilter(TracingFilter.java:68)
+	at org.springframework.cloud.sleuth.autoconfig.instrument.web.TraceWebServletConfiguration$LazyTracingFilter.doFilter(TraceWebServletConfiguration.java:129)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.springframework.cloud.sleuth.instrument.web.tomcat.TraceValve.invoke(TraceValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+08-09-2023 16:40:04.549 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 16:40:04.555 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 16:40:04.705 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 400 (148ms)
+08-09-2023 16:40:04.705 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: close
+08-09-2023 16:40:04.705 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 16:40:04.705 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 12:40:04 GMT
+08-09-2023 16:40:04.705 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 16:40:04.705 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 16:40:04.706 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"timestamp":"2023-09-08T12:40:04.672+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'username' for method parameter type String is not present\n\tat org.springframework.web.method.annotation.RequestHeaderMethodArgumentResolver.handleMissingValue(RequestHeaderMethodArgumentResolver.java:87)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleMissingValue(AbstractNamedValueMethodArgumentResolver.java:226)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:114)\n\tat org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)\n\tat org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)\n\tat org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:655)\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:764)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\n","message":"Required request header 'username' for method parameter type String is not present","path":"/customer/5"}
+08-09-2023 16:40:04.706 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (5435-byte body)
+08-09-2023 16:40:04.707 [http-nio-8080-exec-1] [springAppName_IS_UNDEFINED, ] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:40:04.672+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'username' for method param... (5435 bytes)]] with root cause
+feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:40:04.672+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'username' for method param... (5435 bytes)]
+	at feign.FeignException.clientErrorStatus(FeignException.java:213)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy103.getCustomerWithId(Unknown Source)
+	at az.mybank.ms.account.service.AccountService.getCustomerById(AccountService.java:22)
+	at az.mybank.ms.account.controller.AccountController.getCustomerWithId(AccountController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.cloud.sleuth.instrument.web.servlet.TracingFilter.doFilter(TracingFilter.java:68)
+	at org.springframework.cloud.sleuth.autoconfig.instrument.web.TraceWebServletConfiguration$LazyTracingFilter.doFilter(TraceWebServletConfiguration.java:129)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.springframework.cloud.sleuth.instrument.web.tomcat.TraceValve.invoke(TraceValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+08-09-2023 16:40:11.574 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 16:40:11.578 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 16:40:11.603 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 400 (25ms)
+08-09-2023 16:40:11.604 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: close
+08-09-2023 16:40:11.604 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 16:40:11.604 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 12:40:11 GMT
+08-09-2023 16:40:11.604 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 16:40:11.604 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 16:40:11.604 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"timestamp":"2023-09-08T12:40:11.600+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'username' for method parameter type String is not present\n\tat org.springframework.web.method.annotation.RequestHeaderMethodArgumentResolver.handleMissingValue(RequestHeaderMethodArgumentResolver.java:87)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleMissingValue(AbstractNamedValueMethodArgumentResolver.java:226)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:114)\n\tat org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)\n\tat org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)\n\tat org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:655)\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:764)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\n","message":"Required request header 'username' for method parameter type String is not present","path":"/customer/5"}
+08-09-2023 16:40:11.604 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (5435-byte body)
+08-09-2023 16:40:11.608 [http-nio-8080-exec-5] [springAppName_IS_UNDEFINED, ] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:40:11.600+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'username' for method param... (5435 bytes)]] with root cause
+feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:40:11.600+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'username' for method param... (5435 bytes)]
+	at feign.FeignException.clientErrorStatus(FeignException.java:213)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy103.getCustomerWithId(Unknown Source)
+	at az.mybank.ms.account.service.AccountService.getCustomerById(AccountService.java:22)
+	at az.mybank.ms.account.controller.AccountController.getCustomerWithId(AccountController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.cloud.sleuth.instrument.web.servlet.TracingFilter.doFilter(TracingFilter.java:68)
+	at org.springframework.cloud.sleuth.autoconfig.instrument.web.TraceWebServletConfiguration$LazyTracingFilter.doFilter(TraceWebServletConfiguration.java:129)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.springframework.cloud.sleuth.instrument.web.tomcat.TraceValve.invoke(TraceValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+08-09-2023 16:40:31.515 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 16:40:31.516 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 16:40:31.584 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 400 (67ms)
+08-09-2023 16:40:31.585 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: close
+08-09-2023 16:40:31.585 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 16:40:31.585 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 12:40:31 GMT
+08-09-2023 16:40:31.585 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 16:40:31.585 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 16:40:31.585 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"timestamp":"2023-09-08T12:40:31.561+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'user' for method parameter type String is not present\n\tat org.springframework.web.method.annotation.RequestHeaderMethodArgumentResolver.handleMissingValue(RequestHeaderMethodArgumentResolver.java:87)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleMissingValue(AbstractNamedValueMethodArgumentResolver.java:226)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:114)\n\tat org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)\n\tat org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)\n\tat org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:655)\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:764)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\n","message":"Required request header 'user' for method parameter type String is not present","path":"/customer/5"}
+08-09-2023 16:40:31.585 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (5427-byte body)
+08-09-2023 16:40:31.586 [http-nio-8080-exec-6] [springAppName_IS_UNDEFINED, ] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:40:31.561+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'user' for method parameter... (5427 bytes)]] with root cause
+feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:40:31.561+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'user' for method parameter... (5427 bytes)]
+	at feign.FeignException.clientErrorStatus(FeignException.java:213)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy103.getCustomerWithId(Unknown Source)
+	at az.mybank.ms.account.service.AccountService.getCustomerById(AccountService.java:22)
+	at az.mybank.ms.account.controller.AccountController.getCustomerWithId(AccountController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.cloud.sleuth.instrument.web.servlet.TracingFilter.doFilter(TracingFilter.java:68)
+	at org.springframework.cloud.sleuth.autoconfig.instrument.web.TraceWebServletConfiguration$LazyTracingFilter.doFilter(TraceWebServletConfiguration.java:129)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.springframework.cloud.sleuth.instrument.web.tomcat.TraceValve.invoke(TraceValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+08-09-2023 16:43:17.900 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 16:43:17.902 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 16:43:17.917 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 400 (14ms)
+08-09-2023 16:43:17.917 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: close
+08-09-2023 16:43:17.917 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 16:43:17.917 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 12:43:17 GMT
+08-09-2023 16:43:17.917 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 16:43:17.917 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 16:43:17.918 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"timestamp":"2023-09-08T12:43:17.912+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'user' for method parameter type String is not present\n\tat org.springframework.web.method.annotation.RequestHeaderMethodArgumentResolver.handleMissingValue(RequestHeaderMethodArgumentResolver.java:87)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleMissingValue(AbstractNamedValueMethodArgumentResolver.java:226)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:114)\n\tat org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)\n\tat org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)\n\tat org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:655)\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:764)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\n","message":"Required request header 'user' for method parameter type String is not present","path":"/customer/5"}
+08-09-2023 16:43:17.918 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (5427-byte body)
+08-09-2023 16:43:17.919 [http-nio-8080-exec-8] [springAppName_IS_UNDEFINED, ] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:43:17.912+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'user' for method parameter... (5427 bytes)]] with root cause
+feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:43:17.912+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'user' for method parameter... (5427 bytes)]
+	at feign.FeignException.clientErrorStatus(FeignException.java:213)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy103.getCustomerWithId(Unknown Source)
+	at az.mybank.ms.account.service.AccountService.getCustomerById(AccountService.java:22)
+	at az.mybank.ms.account.controller.AccountController.getCustomerWithId(AccountController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.cloud.sleuth.instrument.web.servlet.TracingFilter.doFilter(TracingFilter.java:68)
+	at org.springframework.cloud.sleuth.autoconfig.instrument.web.TraceWebServletConfiguration$LazyTracingFilter.doFilter(TraceWebServletConfiguration.java:129)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.springframework.cloud.sleuth.instrument.web.tomcat.TraceValve.invoke(TraceValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+08-09-2023 16:48:20.270 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 16:48:20.273 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 16:48:20.385 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 400 (111ms)
+08-09-2023 16:48:20.385 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: close
+08-09-2023 16:48:20.385 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 16:48:20.385 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 12:48:20 GMT
+08-09-2023 16:48:20.385 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 16:48:20.385 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 16:48:20.386 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"timestamp":"2023-09-08T12:48:20.350+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'password' for method parameter type String is not present\n\tat org.springframework.web.method.annotation.RequestHeaderMethodArgumentResolver.handleMissingValue(RequestHeaderMethodArgumentResolver.java:87)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleMissingValue(AbstractNamedValueMethodArgumentResolver.java:226)\n\tat org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:114)\n\tat org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)\n\tat org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)\n\tat org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)\n\tat org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:655)\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:764)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\n","message":"Required request header 'password' for method parameter type String is not present","path":"/customer/5"}
+08-09-2023 16:48:20.386 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (5435-byte body)
+08-09-2023 16:48:20.390 [http-nio-8080-exec-10] [springAppName_IS_UNDEFINED, ] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:48:20.350+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'password' for method param... (5435 bytes)]] with root cause
+feign.FeignException$BadRequest: [400] during [GET] to [http://localhost:9834/customer/5] [CustomerClient#getCustomerWithId(Long)]: [{"timestamp":"2023-09-08T12:48:20.350+00:00","status":400,"error":"Bad Request","trace":"org.springframework.web.bind.MissingRequestHeaderException: Required request header 'password' for method param... (5435 bytes)]
+	at feign.FeignException.clientErrorStatus(FeignException.java:213)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy103.getCustomerWithId(Unknown Source)
+	at az.mybank.ms.account.service.AccountService.getCustomerById(AccountService.java:22)
+	at az.mybank.ms.account.controller.AccountController.getCustomerWithId(AccountController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.cloud.sleuth.instrument.web.servlet.TracingFilter.doFilter(TracingFilter.java:68)
+	at org.springframework.cloud.sleuth.autoconfig.instrument.web.TraceWebServletConfiguration$LazyTracingFilter.doFilter(TraceWebServletConfiguration.java:129)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.springframework.cloud.sleuth.instrument.web.tomcat.TraceValve.invoke(TraceValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+08-09-2023 16:49:16.158 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 16:49:16.166 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 16:49:16.391 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 200 (224ms)
+08-09-2023 16:49:16.392 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: keep-alive
+08-09-2023 16:49:16.392 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 16:49:16.392 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 12:49:16 GMT
+08-09-2023 16:49:16.392 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] keep-alive: timeout=60
+08-09-2023 16:49:16.392 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 16:49:16.392 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 16:49:16.395 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"id":5,"name":"Vusal","surname":"Mahirov","cif":"71236","pin":"PLSQL1"}
+08-09-2023 16:49:16.395 [http-nio-8080-exec-2] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (72-byte body)
+08-09-2023 16:50:12.330 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> GET http://localhost:9834/customer/5 HTTP/1.1
+08-09-2023 16:50:12.331 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] ---> END HTTP (0-byte body)
+08-09-2023 16:50:12.712 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- HTTP/1.1 200 (380ms)
+08-09-2023 16:50:12.712 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] connection: keep-alive
+08-09-2023 16:50:12.712 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] content-type: application/json
+08-09-2023 16:50:12.712 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] date: Fri, 08 Sep 2023 12:50:12 GMT
+08-09-2023 16:50:12.713 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] keep-alive: timeout=60
+08-09-2023 16:50:12.713 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] transfer-encoding: chunked
+08-09-2023 16:50:12.713 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] 
+08-09-2023 16:50:12.713 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] {"id":5,"name":"Vusal","surname":"Mahirov","cif":"71236","pin":"PLSQL1"}
+08-09-2023 16:50:12.713 [http-nio-8080-exec-3] [springAppName_IS_UNDEFINED, ] DEBUG a.m.ms.account.client.CustomerClient.log - [CustomerClient#getCustomerWithId] <--- END HTTP (72-byte body)
+08-09-2023 17:10:53.391 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m14s702ms).
+08-09-2023 17:23:11.095 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m17s640ms).
+08-09-2023 17:26:36.954 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m25s835ms).
+08-09-2023 17:31:04.114 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m27s136ms).
+08-09-2023 17:46:35.763 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58s574ms).
+08-09-2023 18:02:27.132 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m21s253ms).
+08-09-2023 18:05:30.407 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m3s276ms).
+08-09-2023 18:08:46.594 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m16s187ms).
+08-09-2023 18:10:39.671 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s67ms).
+08-09-2023 18:16:10.325 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m30s629ms).
+08-09-2023 18:18:26.074 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m15s750ms).
+08-09-2023 18:38:29.312 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m3s236ms).
+08-09-2023 19:17:08.289 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m38s994ms).
+08-09-2023 19:23:24.433 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m16s144ms).
+08-09-2023 20:36:02.585 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m37s575ms).
+08-09-2023 21:25:15.248 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m12s663ms).
+08-09-2023 22:16:08.793 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m23s633ms).
+08-09-2023 23:11:41.465 [HikariPool-1 housekeeper] [springAppName_IS_UNDEFINED, ] WARN  com.zaxxer.hikari.pool.HikariPool.run - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=55m32s673ms).

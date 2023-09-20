@@ -1,0 +1,50 @@
+databaseChangeLog:
+  - changeSet:
+      id: 1
+      author: Jumshud Asadzada
+      changes:
+        - createTable:
+            tableName: account
+            columns:
+              - column:
+                  name: id
+                  type: INT
+                  constraints:
+                    primaryKey:  true
+                    nullable:  false
+              - column:
+                  name: fullName
+                  type: varchar(150)
+                  constraints:
+                    nullable:  false
+              - column:
+                  name: accountNumber
+                  type: varchar(100)
+                  constraints:
+                    nullable:  false
+              - column:
+                  name: customerId
+                  type: INT
+                  constraints:
+                    nullable:  false
+              - column:
+                  name: iban
+                  type: varchar(20)
+                  constraints:
+                    primaryKey:  true
+                    nullable:  false
+              - column:
+                  name: currency
+                  type: INT
+                  constraints:
+                    nullable:  false
+              - column:
+                  name: status
+                  type: INT
+                  constraints:
+                    nullable:  false
+              - column:
+                  name: balance
+                  type: INT
+                  constraints:
+                    nullable:  false
